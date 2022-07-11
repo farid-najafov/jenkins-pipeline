@@ -1,0 +1,17 @@
+[33mcommit 3868cc9a88849196351b9af254020c11798ca771[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: farid-najafov <farid.najafov@outlook.com>
+Date:   Mon Jul 11 20:30:00 2022 +0400
+
+    Define code based pipeline
+
+[33mcommit 6d6df88a7e53b41578e0ba0114659ca5053fcf78[m
+Author: farid-najafov <farid.najafov@outlook.com>
+Date:   Mon Jul 11 19:53:38 2022 +0400
+
+    Add gitignore file
+
+[33mcommit 55eda431b11c3f30e86a5415f822c4e9096c4b33[m
+Author: farid-najafov <farid.najafov@outlook.com>
+Date:   Mon Jul 11 19:51:55 2022 +0400
+
+    First commit
